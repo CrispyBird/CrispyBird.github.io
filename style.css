@@ -1,9 +1,4 @@
 @import url('http://fonts.cdnfonts.com/css/minecraftia');
-@font-face {
-    font-family: 'Minecraftia, sans-serif';
-    src: url('http://fonts.cdnfonts.com/css/minecraftia');
-    font-style: normal;
-}
 /* UTILITIES */
 * {
     margin: 0;
