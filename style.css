@@ -646,7 +646,7 @@ html,body, * {
     margin-right: 20px;
 }
 .p-menu1{
-    display: none;
+    opacity: 0%;
 }
 
 @media only screen and (max-width:700px){
@@ -687,6 +687,7 @@ a {
   
   .p-menu1{
      height: 100%;
+     opacity: 100%;
   }
   
   /* Hamburger */
