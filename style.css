@@ -5,14 +5,21 @@
     background-color: #18181b;
 }
 
+html,body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
 .cw{
-    margin-left: 50rem;
-    margin-top: 25rem;
     font-size: 200%;
     color: white;
 }
 .cs{
-    margin-left: 57rem;
+    font-size: 130%;
     margin-top: 1rem;
     color: white;
 }
